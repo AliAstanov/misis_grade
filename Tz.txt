@@ -1,0 +1,57 @@
+1. Kirish (Login) va Ro'yxatdan O'tish (Sign Up) Sahifalari:
+Bu sahifalar foydalanuvchilarni tizimga kirish yoki yangi hisob yaratish uchun ishlatiladi.
+
+
+2. Asosiy Sahifa (Dashboard):
+Bu sahifa foydalanuvchini tizimga kirgandan so'ng ko'rsatiladi. Ushbu sahifa foydalanuvchi roli (o'qituvchi yoki talaba) ga qarab o'zgaradi.
+O'qituvchi Sahifasi (Teacher Dashboard):
+
+    Kurslar ro'yxati: O'qituvchi o'qitadigan kurslar ro'yxati.
+    Guruhlar ro'yxati: Har bir kurs bo'yicha guruhlar ro'yxati.
+    Fanlar ro'yxati: Har bir guruh bo'yicha fanlar ro'yxati.
+    Talabalar ro'yxati: Har bir fan bo'yicha talabalar ro'yxati.
+    Baholar kiritish: Talabalarga baholarni kiritish imkoniyati.
+
+Talaba Sahifasi (Student Dashboard):
+
+    Kurslar ro'yxati: Talaba ro'yxatdan o'tgan kurslar ro'yxati.
+    Fanlar ro'yxati: Har bir kurs bo'yicha fanlar ro'yxati.
+    Baholar: Har bir fanga oid baholarni ko'rish imkoniyati.
+
+
+3. Kurslar Sahifasi (Courses Page):
+
+Bu sahifa o'qituvchilar uchun o'z kurslarini boshqarish va yangi kurslar yaratish imkonini beradi.
+
+    Kurs nomi: Kurs nomi kiritiladi.
+    Guruhlar: Kursga tegishli guruhlar ko'rsatiladi.
+    Yangi kurs yaratish tugmasi: Yangi kurs yaratish uchun tugma.
+
+
+4. Guruhlar Sahifasi (Groups Page):
+
+Bu sahifa o'qituvchilar uchun o'z guruhlarini boshqarish va yangi guruhlar yaratish imkonini beradi.
+
+    Guruh nomi: Guruh nomi kiritiladi.
+    Fanlar: Guruhga tegishli fanlar ko'rsatiladi.
+    Yangi guruh yaratish tugmasi: Yangi guruh yaratish uchun tugma.
+
+
+5. Fanlar Sahifasi (Subjects Page):
+
+Bu sahifa o'qituvchilar uchun o'z fanlarini boshqarish va yangi fanlar yaratish imkonini beradi.
+
+    Fan nomi: Fan nomi kiritiladi.
+    Guruh: Fan tegishli guruh ko'rsatiladi.
+    O'qituvchi: Fan uchun mas'ul o'qituvchi ko'rsatiladi.
+    Yangi fan yaratish tugmasi: Yangi fan yaratish uchun tugma.
+
+
+6. Baholar Sahifasi (Grades Page):
+
+Bu sahifa o'qituvchilar uchun talabalarga baho qo'yish va talabalarga ko'rsatish imkonini beradi.
+
+    Talabalar ro'yxati: Guruhga tegishli talabalar ro'yxati.
+    Fan: Talabalar fan bo'yicha ko'rsatiladi.
+    Baholar: Talabalarga baho qo'yish imkoniyati (o'qituvchilar uchun).
+    Baho ko'rish: Talabalar o'z baholarini ko'rish imkoniyati.
